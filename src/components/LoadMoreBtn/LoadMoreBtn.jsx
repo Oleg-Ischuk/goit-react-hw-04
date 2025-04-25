@@ -1,5 +1,4 @@
-import React from 'react';
-import styles from '../LoadMoreBtn/LoadMoreBtn.module.css';
+import styles from "../LoadMoreBtn/LoadMoreBtn.module.css";
 
 const LoadMoreBtn = ({ onClick }) => {
   return (
@@ -9,4 +8,4 @@ const LoadMoreBtn = ({ onClick }) => {
   );
 };
 
-export default LoadMoreBtn;                  
+export default LoadMoreBtn;
